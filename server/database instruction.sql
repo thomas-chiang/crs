@@ -8,7 +8,7 @@ heroku addons:create heroku-postgresql:hobby-dev -a YourAppName
 
 heroku pg:psql -a YourAppName
 
--- copy and paste code before when connected to heroku database:
+-- copy and paste codes below after connected to heroku database:
 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
