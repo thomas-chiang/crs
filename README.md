@@ -1,4 +1,6 @@
-# Crs - a multi-user platform for gym course-related actions
+# Crs 
+### a multi-user platform for gym course-related actions
+### https://crs-course-web-app.netlify.app/
 
 ![Memories](crs_screenshot.png)
 
